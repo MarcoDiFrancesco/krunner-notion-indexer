@@ -7,7 +7,3 @@ Run:
 ```
 npm start
 ```
-
-## How it works
-
-- Gets 
